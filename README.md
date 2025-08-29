@@ -21,3 +21,6 @@ La deuxième contient les régions par pays, elle a X lignes et 2 colonnes.
 </p>
 
 Avant de commencer l'analyse, un ensemble de manipulation ont été effectuées pour le contrôler la qualité des données et les nettoyer. Le code Python utilisé à ces fins est accessible dans le Jupiter Notebook, parties "2. Découverte du dataframe principal df",  "3. Découverte du dataframe df_region" et "4. Data Cleaning".
+
+
+j'ai oublié les boxplot pour les outliers 
