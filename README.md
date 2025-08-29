@@ -7,7 +7,7 @@ Elle souhaite mieux comprendre les facteurs influençant ses ventes.
 
 Les léviers et recommandations sont produits à partir des données clés suivantes :
 * Analyse des tendances des ventes : Evaluer l'historique des ventes, à la fois au niveau mondial et par région
-* Performance des produits : Identifier les produits qui se vendent le mieux et ceux qui se vendent le moins bien
+* Performances des produits : Identifier les produits qui se vendent le mieux et ceux qui se vendent le moins bien
 * Succès des outils : Analyser le vente par rapport aux différents outils mis à dispoisition des clients
 
 # Structure des données & Vérifications initiales
