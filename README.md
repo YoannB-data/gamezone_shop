@@ -1,4 +1,4 @@
-# Comprendre et optimiser les performances commerciales d'une entreprise d'e-commerce
+# Comprendre et optimiser les performances commerciales d'une entreprise
 
 # Contexte du projet
 
